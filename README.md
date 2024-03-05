@@ -1,7 +1,10 @@
 ![](https://github.com/catomas/catomas/blob/main/Githubbanner.png)
 
 ### Hello! 👋
-🚀 I am a Software Engineer with over two years of experience in the programming world. 💻 Passionate about coding with a strong foundation in JavaScript and TypeScript, constantly seeking challenges to enhance my skills. 💡 Specializing in frameworks such as React and Angular, where I strive every day to push boundaries and master new techniques to craft amazing applications.
+I am a Software Engineer with over two years of experience in the programming world. Passionate about coding with a strong foundation in JavaScript and TypeScript, constantly seeking challenges to enhance my skills. Specializing in frameworks such as React and Angular, where I strive every day to push boundaries and master new techniques to craft amazing applications.
+
+## 🛠️ Technologies & Tools
+![](![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square))
 
 <!--
 **catomas/catomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
